@@ -1,7 +1,0 @@
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfoInputs.cache
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.AssemblyInfo.cs
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.csproj.CoreCompileInputs.cache
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment1.sourcelink.json
-C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment1\Assignment1\obj\Debug\net8.0\Assignment2.MvcApplicationPartsAssemblyInfo.cache
