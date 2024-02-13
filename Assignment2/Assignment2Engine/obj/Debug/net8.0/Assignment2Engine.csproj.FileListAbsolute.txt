@@ -1,0 +1,12 @@
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\bin\Debug\net8.0\Assignment2Engine.deps.json
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\bin\Debug\net8.0\Assignment2Engine.dll
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\bin\Debug\net8.0\Assignment2Engine.pdb
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.AssemblyInfoInputs.cache
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.AssemblyInfo.cs
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.csproj.CoreCompileInputs.cache
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.sourcelink.json
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.dll
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\refint\Assignment2Engine.dll
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\Assignment2Engine.pdb
+C:\Users\Roami\OneDrive\Documents\GitHub\SW_Test_Project\Assignment2\Assignment2Engine\obj\Debug\net8.0\ref\Assignment2Engine.dll

@@ -1,0 +1,17 @@
+﻿@page "/"
+@using Assignment2Engine
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+Welcome to your new app.
+
+@{
+    double[] incomeList = { 110000 };
+    int[] parentList = { 65 };
+    int[] childList = { 15, 17 };
+    double taxAmount = TaxLogic.ComputeTax(incomeList, parentList, childList);
+}
+
+<h1>Your tax amount is @taxAmount!!!!</h1>
